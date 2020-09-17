@@ -25,7 +25,7 @@ ___
 
 ### Experience:
 ___
-3-weeks practice at Linear production management of main gas pipelines as a network manager.
+3-weeks practice at Linear production management of main gas pipelines as a *network manager*.
 
 ### Education:
 ___
